@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Blog for the elvers in us all. 
   Made in Chividianville with :green_heart:.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.helloelver.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://codeelver.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
