@@ -1,0 +1,62 @@
+
+---
+title: "AWS re:Inforce 2025: My Experience"
+date: 2025-06-29
+categories: [conference, aws, security]
+tags: [aws, reinforce, conference, security, cloud]
+---
+
+
+## What is aws:reinforce?
+
+
+AWS re:Inforce is an annual conference with a focus on AWS cloud security of services, through in-depth talks, deep dive hands on experiences, and sessions regarding security of latest cloud technologies. 
+Interested in IAM anywhere, this is where you would learn more ways to securely use the service. Getting started with LLMs, this is where you would practice hands-on techniques to assess security of a rollout of an AI app.
+
+
+
+## My time at re:inforce
+### Arrival
+
+I arrived the night before re:inforce around midnight.
+Straight off the plane I booked a Lyft to Jim's South Street Famous Cheesesteaks. Ordered my cheesesteak with luggage in hand. After securing the goods I checked into a Sonder Apartment, ate half the cheesesteak, then went to sleep.
+
+The next day I walked to the Pennsylvania Convention center around 8:30 AM. Not getting my badge earlier was a mistake, as the line played a game of snake around the badge desk, then shot down the hallway, past many session rooms, and emptied into a open space on the other end of the building a block or two away. Didn't get my badge until around 10 AM.
+
+Representation of the badge line
+![alt text](/assets/reinforce-badge-line.png)
+
+
+
+### Expectations
+
+
+* I did expect the need to have to register for sessions, as was with aws:reinvent. Luckily, we didn't have to register, but you did have to arrive about 20 mins before the session, or risk not getting a spot.
+* I did expect to have 3 different sessions I really wanted to go to be at the same time.
+This was the case a couple times. I looked for repeats sessions in this case.
+* I did expect to meet with an AWS Engineer who is assigned to my company, just to chat and say hello. My expectations were exceeded, when he took the time to chat with me for about 15 mins after the session about generative AI, how I could "catch up" on learning about it, and how some of the security concerns were functionally the same as security concerns for other technology.
+* I did not expect to just be so worn out by walking up and down the convention center escalator, elevators, and hallways. I should have done more recon on where sessions were, as to save energy. There were multiple times where I would forgo a session I was interested in, because I didn't have to time/energy to get to the other side of the convention center to join it and be back to the other side for the following session I wanted to join.
+* I did not expect aws:reinforce to re:invigorate me as much as it did. I expected to learn about some of the technologies at a high level, but the builder sessions, jam sessions, and some of the security talks were really empowering in reminding me that I have a passion to pursue more roles and work specific to security, but also reminded me that I am capable of doing it. This isn't rocket science. And even if it is, anything can be learned with passion and a good teacher.
+* I did not expect the badge line to be that crazy on the first day. It seemed like 90% of the participants were stuck in the badge line on the first day. Having already been to aws:reinvent years before (I might create a blog about that experience), I expected some chaos with the lines for sessions, but not with the badges. 
+
+
+### What I enjoyed
+
+* Food and snacks included. The event had catered or prepared breakfasts and lunches. And sometime snacks during the day. Last thing I want to worry about during a conference is trekking out to find food and come back.
+* I enjoyed the diversity of offerings of hands on jam sessions, or lightning sessions, or chalk talks. Whatever you wanted, whether in depth, high level, appetizer, even Quantum computing research, it was available. 
+
+
+
+### What I disliked
+* I did dislike going solo. Wish I could have had a coworker joining. Probably would have explored the city more as well.
+* Not enough participant swag at the AWS Jam.
+* The Keynote. While I had never been to a keynote at a major tech company like AWS, about 1 hour and 30 minutes in, I was dying to exit but couldn't because I was in the middle of the fourth row. I did also wish for more technology unveiling.
+
+
+
+## Why would I recommend you go to aws:reinforce?
+* See how others are doing it. The others may be AWS, competitors, or vendors. We should also be open to learning new processes, expanding our horizons, and honestly sometimes you'll see others are doing it the same way as you and there is no "better" way -- that can be affirming.
+* Network with other professionals. Maybe you dreamed of doing something else. Maybe you will do something else one day. Sometimes it's hard to see yourself doing something if you don't see someone else doing it.
+* Experience something new. Getting time away from the regular grind of doing the same thing is awesome in itself. If you can get your company to pay for that experience, its even better. I would recommend going you've never been to a technology conference, or have not been in a long time. Just don't try to catch every conference every year.
+
+
