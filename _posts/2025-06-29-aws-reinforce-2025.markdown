@@ -1,4 +1,3 @@
-
 ---
 title: "AWS re:Inforce 2025: My Experience"
 date: 2025-06-29
@@ -24,7 +23,7 @@ Straight off the plane I booked a Lyft to Jim's South Street Famous Cheesesteaks
 The next day I walked to the Pennsylvania Convention center around 8:30 AM. Not getting my badge earlier was a mistake, as the line played a game of snake around the badge desk, then shot down the hallway, past many session rooms, and emptied into a open space on the other end of the building a block or two away. Didn't get my badge until around 10 AM.
 
 Representation of the badge line
-![alt text](../assets/reinforce-badge-line.png)
+![alt text](/assets/reinforce-badge-line.png)
 
 
 
